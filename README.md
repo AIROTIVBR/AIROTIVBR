@@ -3,7 +3,7 @@
 - How to reach me: Email- vitamorim4002@gmail.com
 <div align="center">
   <a href="https://github.com/AIROTIVBR">
-  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AIROTIVBR)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIROTIVBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIROTIVBR&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
