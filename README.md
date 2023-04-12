@@ -2,7 +2,7 @@
 - I’m looking to collaborate on anything
 - How to reach me: Email- vitamorim4002@gmail.com
 <div align="center">
-  [![AIROTIVBR's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIROTIVBR)](https://github.com/AIROTIVBR/github-readme-stats)
+ (https://github-readme-stats.vercel.app/api?username=AIROTIVBR)](https://github.com/AIROTIVBR/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitoria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
