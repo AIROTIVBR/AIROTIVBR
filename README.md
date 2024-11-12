@@ -3,7 +3,7 @@
  
  <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=35&center=true&vCenter=true&width=1000&lines=Oie!;Meu+nome+é+Vitória+Amorim;Eu+tenho+20+anos;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+vindo(a)+:%29;Hello!;My+name+is+Vitória+Amorim;I'm+18+years+old;I'm+from+Brazil;I'm+studying+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=35&center=true&vCenter=true&width=1000&lines=Oie!;Meu+nome+é+Vitória+Amorim;Eu+tenho+20+anos;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+vindo(a)+:%29;Hello!;My+name+is+Vitória+Amorim;I'm+20+years+old;I'm+from+Brazil;I'm+studying+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br/><br/><br/>
 
