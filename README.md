@@ -7,10 +7,10 @@
 
 <br/><br/><br/>
 
-<div align="left">  
+<!-- <div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AIROTIVBR&show_icons=true&count_private=true&hide_border=true&title_color=5e88d2&icon_color=a67fd4&text_color=38bdae&bg_color=1a1b27" alt="Vitória Amorim github stats" /> 
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIROTIVBR&layout=compact&hide_border=true&title_color=5e88d2&text_color=38bdae&bg_color=1a1b27" /> 
-</div>
+</div> -->
 
 <br/><br/>
 
